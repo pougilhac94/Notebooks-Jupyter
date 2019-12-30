@@ -1,2 +1,2 @@
-# notebooks
-Mes notebooks python
+# Notebooks
+Mes notebooks Jupyter en python
